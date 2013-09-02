@@ -4,8 +4,8 @@
   <artifactId>hw0-chens1</artifactId>
   <version>0.0.1</version>
   <scm>
-  	<connection>scm:git:git://github.com/JerrySun363/hw0-chens1.git</connection>
-  	<developerConnection>scm:git:git://github.com/JerrySun363/hw0-chens1.git</developerConnection>
+  	<connection>scm:git:https://github.com/JerrySun363/hw0-chens1.git</connection>
+  	<developerConnection>scm:git:https://github.com/JerrySun363/hw0-chens1.git</developerConnection>
   </scm>
   <repositories><repository>
 <id>deployment</id>
